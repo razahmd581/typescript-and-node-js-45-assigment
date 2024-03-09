@@ -1,0 +1,12 @@
+{
+  "name": "typescript and node js 45 assigment",
+  "version": "1.0.0",
+  "description": "in this typescript file we solved all 45 assigment of govorner sindh initiative",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Raza (roll number 00360570)",
+  "license": "ISC"
+}
